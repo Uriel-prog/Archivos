@@ -1,0 +1,11 @@
+C:\Users\aguil\source\repos\archivos\archivos\bin\Debug\archivos.exe.config
+C:\Users\aguil\source\repos\archivos\archivos\bin\Debug\archivos.exe
+C:\Users\aguil\source\repos\archivos\archivos\bin\Debug\archivos.pdb
+C:\Users\aguil\source\repos\archivos\archivos\obj\Debug\archivos.csproj.AssemblyReference.cache
+C:\Users\aguil\source\repos\archivos\archivos\obj\Debug\archivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\source\repos\archivos\archivos\obj\Debug\archivos.Form1.resources
+C:\Users\aguil\source\repos\archivos\archivos\obj\Debug\archivos.Properties.Resources.resources
+C:\Users\aguil\source\repos\archivos\archivos\obj\Debug\archivos.csproj.GenerateResource.cache
+C:\Users\aguil\source\repos\archivos\archivos\obj\Debug\archivos.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\archivos\archivos\obj\Debug\archivos.exe
+C:\Users\aguil\source\repos\archivos\archivos\obj\Debug\archivos.pdb
